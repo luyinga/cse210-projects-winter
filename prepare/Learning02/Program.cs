@@ -1,3 +1,5 @@
+// exercise
+
 using System;
 
 class Program
